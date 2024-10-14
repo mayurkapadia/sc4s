@@ -1,0 +1,2 @@
+<190>date=2024-10-14 time=14:28:42 devname="FGT60D3Z16000000" devid="FGT60D3Z16000000" logid="0200000014" type="utm" subtype="webfilter" eventtype="ftgd_allow" level="notice" vd="root" srcip=192.168.1.50 srcport=50123 srcintf="port1" dstip=216.58.214.206 dstport=443 dstintf="port2" policyid=1 sessionid=345678 proto=6 service="HTTPS" hostname="www.example.com" profile="default" action="blocked" reqtype="direct" url="www.example.com" sentbyte=0 rcvdbyte=0 direction="outgoing" msg="URL was blocked by webfilter" method="domain" cat=52 catdesc="Information Technology"
+

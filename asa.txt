@@ -1,0 +1,1 @@
+<166>Oct 14 14:28:45 ASA-FW1 : %ASA-6-302015: Built outbound UDP connection 12345678 for outside:192.168.1.100/12345 (192.168.1.100/12345) to inside:10.1.1.10/53 (10.1.1.10/53)
